@@ -1,7 +1,7 @@
 ---
 name: "I have feedback for the package:checks preview"
 about: "Suggest a change, new feature, or bug, for 'package:checks'."
-title: ''
+title: ""
 labels: "package:checks"
 ---
 Add any feedback about `package:checks`.

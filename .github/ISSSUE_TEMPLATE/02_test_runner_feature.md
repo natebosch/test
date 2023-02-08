@@ -1,9 +1,9 @@
 ---
-name: I'd like a new feature in the test runner
+name: "I'd like a new feature in the test runner"
 about: >-
   Propose a feature for 'package:test' that would make testing easier or more
   powerful.
-title: ''
+title: ""
 labels: enhancement
 ---
 Describe the feature and include specific description of the use case, or use
